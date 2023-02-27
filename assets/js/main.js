@@ -98,7 +98,7 @@
 			mainVideo.append("<source type='video/mp4' src='images/music_video_1080.mp4'/>");
 		} 
 		else {
-		mainVideo.append("<source type='video/mp4' src='images/music_video.mp4' />");
+		mainVideo.append("<source type='video/mp4' src='images/ntts/video.mp4' />");
 		}
 
 		$(window).bind('beforeunload', function() {
